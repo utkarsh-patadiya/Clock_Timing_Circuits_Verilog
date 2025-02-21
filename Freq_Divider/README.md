@@ -36,7 +36,7 @@ The testbench initializes the clock and reset signals, then observes the frequen
 Run the testbench in **Vivado ModelSim/ISE** or any Verilog simulator. The expected waveform should show frequency division at each stage.  
 
 Example waveform output:  
-![Waveform](sim/waveform.png)  
+![Waveform](sim/sim.png)  
 
 ## How to Run  
 1. Create a new Project in Vivado.
